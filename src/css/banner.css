@@ -1,0 +1,25 @@
+.banner {
+    position: fixed;
+    top: 0;
+    background: #FCC700;
+    color: #221F22;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.banner-strong {
+    display: block;
+    text-transform: uppercase;
+}
+
+.banner-strong a {
+    text-decoration: none;
+    color: #221F22;
+    letter-spacing: 2px;
+}
+
+.content {
+    margin-top: 80px;
+}
